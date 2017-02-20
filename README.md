@@ -1,2 +1,2 @@
 # Practice-Projects
-All my learning projects before coding bootcamp
+My Web Development practice projects before coding bootcamp
