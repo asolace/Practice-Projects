@@ -2,6 +2,7 @@
 Tutorial from: https://github.com/verekia/js-stack-from-scratch <br>
 <br>
 # Before starting server:
+* install yarn `npm install -g yarn`
 * run `yarn add --dev babel-preset-react`
 * run `yarn add --dev gulp-flowtype`
 * To start: `yarn start` then open dist/index.html
