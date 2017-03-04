@@ -2,7 +2,7 @@
 My Web Development practice projects before coding bootcamp
 
 ### Content
-|Index|Lang|Name|Description|
+|Index|Focus|Name|Description|
 | --- | --- |-------- | -------------------------------- |
 |1|Rails|[Firstblog](https://github.com/asolace/Practice-Projects/tree/master/Firstblog)|My first ever simple blog post w/ bootstrap, post, delete, comment|
 |2|JS|[Full-Stack-Project-1](https://github.com/asolace/Practice-Projects/tree/master/Full-Stack-Project-1)|My attempt on a Full Stack project. (inprogress...)|
