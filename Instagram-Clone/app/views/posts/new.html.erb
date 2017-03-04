@@ -1,0 +1,11 @@
+<h1>Create a New Post</h1>
+<hr>
+
+<%= form_for @post, html: { multipart: true } do |f| %>
+	<%= f.label :image %>
+	<%= f.file_field :image %>
+	<br>
+
+	<%= f.submit %>
+<% end %>
+
