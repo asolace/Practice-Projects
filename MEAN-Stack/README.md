@@ -1,6 +1,7 @@
 # MEAN-Stack
 
 [Tutorial](https://www.youtube.com/watch?v=uONz0lEWft0&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ)<br>
+Install nodemon `sudo npm install -g nodemon`
 Run `nodemon`
 
 ### Covers
