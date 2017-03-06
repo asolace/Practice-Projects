@@ -2,8 +2,16 @@
 
 [Tutorial](https://www.youtube.com/watch?v=uONz0lEWft0&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ)<br>
 Mangodb required <br>
+`sudo service mongod start`
+
+#### For Testing
 Install nodemon `sudo npm install -g nodemon` <br>
 Run `nodemon`
+
+#### Usage
+`npm install`
+`npm start`
+In /angular-src `ng serve`
 
 ### Covers
 * Back End
