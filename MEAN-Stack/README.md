@@ -6,11 +6,9 @@ Mangodb required <br>
 
 #### For Testing
 Install nodemon `sudo npm install -g nodemon` <br>
-Run `nodemon`
-
-#### Usage
-`npm install`
-`npm start`
+`nodemon`
+`npm install -g angular-cli`
+In /angular-src `npm install`
 In /angular-src `ng serve`
 
 ### Covers
@@ -25,3 +23,11 @@ In /angular-src `ng serve`
 		- CLI (Command Line Interface), 
 		- JWT (Handles Authentication Tokens),
 		- Flash Message
+
+#### Notes:
+I had to add `mongoose.Promise = global.Promise;` in app.js
+````
+// Connect to Database
+mongoose.Promise = global.Promise;
+mongoose.connect(config.database);
+````
