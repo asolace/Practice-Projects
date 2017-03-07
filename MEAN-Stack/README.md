@@ -1,5 +1,5 @@
 # MEAN-Stack
-
+This is a MEAN stack frontend and backend from scratch I've completed.<br> 
 [Tutorial](https://www.youtube.com/watch?v=uONz0lEWft0&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ)<br>
 Mangodb required <br>
 `sudo service mongod start`
@@ -31,3 +31,6 @@ I had to add `mongoose.Promise = global.Promise;` in app.js
 mongoose.Promise = global.Promise;
 mongoose.connect(config.database);
 ````
+
+Havn't complied yet...(Part 9 21:00)<br>
+`ng build`
