@@ -11,4 +11,5 @@ My Web Development practice projects before coding bootcamp
 |5|MEAN|[Mean-Stack](https://github.com/asolace/Practice-Projects/tree/master/MEAN-Stack)|Front & back Coming soon...|
 |6|HTML|[Ping-Pong](https://github.com/asolace/Practice-Projects/tree/master/Ping-Pong)|VERY basic game only in JS|
 |7|JS|[React-Prac](https://github.com/asolace/Practice-Projects/tree/master/React-Prac)|Basic To-dos list and form.|
+|8|HTML|[w3css](https://github.com/asolace/Practice-Projects/tree/master/w3css)|Basic frontend framework|
 
