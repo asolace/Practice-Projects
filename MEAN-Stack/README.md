@@ -6,9 +6,9 @@ Mangodb required <br>
 
 #### For Testing
 Install nodemon `sudo npm install -g nodemon` <br>
-`nodemon`
-`npm install -g angular-cli`
-In /angular-src `npm install`
+`nodemon`<br>
+`npm install -g angular-cli`<br>
+In /angular-src `npm install`<br>
 In /angular-src `ng serve`
 
 ### Covers
