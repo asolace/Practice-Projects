@@ -17,4 +17,4 @@ My Web Development practice projects before coding bootcamp
 |11|React|[Reminder-App](https://github.com/asolace/Practice-Projects/tree/master/Reminder-App)|Basic Reminders form|
 |12|React|[Text-Generator-React](https://github.com/asolace/Practice-Projects/tree/master/Text-Generator-React)|Generates and select Paragraph from [Hipster Jesus](http://hipsterjesus.com)|
 |13|HTML|[w3css](https://github.com/asolace/Practice-Projects/tree/master/w3css)|Basic frontend framework|
-|14|MEAN|[Web-Dev-Study-Guide](https://github.com/asolace/Web-Development-Study-Guide)|A Web-Dev study guide deployed on Heroku (COMING SOON)|
+|14|MEAN|[Web-Dev-Study-Guide](https://github.com/asolace/Web-Development-Study-Guide)|A Web-Dev study guide|
