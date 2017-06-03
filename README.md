@@ -11,11 +11,10 @@ My Web Development practice projects before coding bootcamp
 |5|Rails|[Instagram-Clone](https://github.com/asolace/Practice-Projects/tree/master/Instagram-Clone)|Instagram with rails|
 |6|JS|[JS-Stack](https://github.com/asolace/Practice-Projects/tree/master/JS-Stack)|Make a dog bark button... React practice|
 |7|MEAN|[Mean-Stack](https://github.com/asolace/Practice-Projects/tree/master/MEAN-Stack)|Front & back|
-|8|Rails|[MessageBoard](https://github.com/asolace/Practice-Projects/tree/master/MessageBoard)|Post-it like|
-|9|JS|[Movie-Archive-JS](https://github.com/asolace/Practice-Projects/tree/master/Movie-Archive-JS)|A simple search engine for movies|
-|10|HTML|[Ping-Pong](https://github.com/asolace/Practice-Projects/tree/master/Ping-Pong)|VERY basic game only in JS|
-|11|React|[React-Prac](https://github.com/asolace/Practice-Projects/tree/master/React-Prac)|Basic To-dos list and form|
-|12|React|[Reminder-App](https://github.com/asolace/Practice-Projects/tree/master/Reminder-App)|Basic Reminders form|
-|13|React|[Text-Generator-React](https://github.com/asolace/Practice-Projects/tree/master/Text-Generator-React)|Generates and select Paragraph from [Hipster Jesus](http://hipsterjesus.com)|
-|14|HTML|[w3css](https://github.com/asolace/Practice-Projects/tree/master/w3css)|Basic frontend framework|
-|15|MEAN|[Web-Dev-Study-Guide](https://github.com/asolace/Web-Development-Study-Guide)|A Web-Dev study guide|
+|8|JS|[Movie-Archive-JS](https://github.com/asolace/Practice-Projects/tree/master/Movie-Archive-JS)|A simple search engine for movies|
+|9|HTML|[Ping-Pong](https://github.com/asolace/Practice-Projects/tree/master/Ping-Pong)|VERY basic game only in JS|
+|10|React|[React-Prac](https://github.com/asolace/Practice-Projects/tree/master/React-Prac)|Basic To-dos list and form|
+|11|React|[Reminder-App](https://github.com/asolace/Practice-Projects/tree/master/Reminder-App)|Basic Reminders form|
+|12|React|[Text-Generator-React](https://github.com/asolace/Practice-Projects/tree/master/Text-Generator-React)|Generates and select Paragraph from [Hipster Jesus](http://hipsterjesus.com)|
+|13|HTML|[w3css](https://github.com/asolace/Practice-Projects/tree/master/w3css)|Basic frontend framework|
+|14|MEAN|[Web-Dev-Study-Guide](https://github.com/asolace/Web-Development-Study-Guide)|A Web-Dev study guide|
