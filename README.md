@@ -17,6 +17,6 @@ My Web Development practice projects before coding bootcamp
 |11|React|[React-Prac](https://github.com/asolace/Practice-Projects/tree/master/React-Prac)|Basic To-dos list and form|
 |12|React|[Reminder-App](https://github.com/asolace/Practice-Projects/tree/master/Reminder-App)|Basic Reminders form|
 |13|React|[Text-Generator-React](https://github.com/asolace/Practice-Projects/tree/master/Text-Generator-React)|Generates and select Paragraph from [Hipster Jesus](http://hipsterjesus.com)|
-|14|Rb, JS, React|[Tic-Tac-Toe-Projects](https://github.com/asolace/Practice-Projects/tree/master/Tic-Tac-Toe-Projects)|Practicing making Tic-Tac-Toe to learn basics|
+|14|Rb,JS|[Tic-Tac-Toe-Projects](https://github.com/asolace/Practice-Projects/tree/master/Tic-Tac-Toe-Projects)|Practicing making Tic-Tac-Toe to learn basics|
 |15|HTML|[w3css](https://github.com/asolace/Practice-Projects/tree/master/w3css)|Basic frontend framework|
 |16|MEAN|[Web-Dev-Study-Guide](https://github.com/asolace/Web-Development-Study-Guide)|A Web-Dev study guide|
