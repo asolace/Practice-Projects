@@ -1,5 +1,5 @@
 # Tic-tac-toe-Projects
 ### Covers: 
-* JS
+* JS (CSS, DOM, Jquery, HTML)
 * React
 * Ruby
