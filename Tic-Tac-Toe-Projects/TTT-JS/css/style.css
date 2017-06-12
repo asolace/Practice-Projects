@@ -1,63 +1,131 @@
-html, body
-{
-	margin: 0;
-	padding: 0;
+html, body {
+  padding: 0;
+  margin: 0;
 
-	background: #111;
-	text-transform: uppercase;
+  text-transform: uppercase;
+  color: #111;
+  font-size: 1.5vh;
 
-	color: #111;
-	font-size: 1.5vh;
+  background-image: url("http://www.pptbackgrounds.org/uploads/tic-tac-toe-backgrounds-wallpapers.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-#main
-{
-	margin: 0;
-	padding: 0;
-	padding-top: 25vh;
-
-	height: auto;
-	width: 100%;
+h1 {
+  text-align: center;
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 50px;
 }
 
-#board
-{
-	margin: auto;
-	padding: 0;
-
-	height: 33vh;
-	width: 33vh;
+#status {
+  margin-top: -50px;
+  margin-bottom: -30px;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Fredericka the Great', cursive;
+  height: auto;
 }
 
-.tile
-{
-	margin: 0.5vh;
-	padding: 0;
-
-	height: 10vh;
-	width: 10vh;
-
-	border-radius: 5px;
-	background: #fff;
-
-	cursor: pointer;
-	float: left;
+.site__title {
+    color: #f35626;
+    background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: hue 60s infinite linear;
 }
 
-.button
-{
-	margin: 0.5vh;
-	padding: 0;
+#container {
+  margin: 0;
+  padding: 0;
+  padding-top: 10vh;
+  height: auto;
+  width: 100%;
+}
 
-	height: 5vh;
-	width: 15.5vh;
-	line-height: 5vh;
-	vertical-align: middle;
+#board {
+  padding: 0;
+  margin: auto;
+  width: 33vh;
+  height: 33vh;
+}
 
-	background: #fff;
-	text-align: center;
-	border-radius: 5px;
-	cursor: pointer;
+.tile {
+  padding: 0;
+  margin: 0.5vh;
+  height: 10vh;
+  width: 10vh;
+  border-radius: 5px;
+  background: #fff;
+  cursor: pointer;
+  float: left;
+  font-size: 5.7em;
+  text-align: center;
+}
 
-	float: left;
+.button {
+  margin: 0.5vh;
+  padding: 0;
+  height: 5vh;
+  width: 15.5vh;
+  line-height: 5vh;
+  vertical-align: middle;
+  background: #fff;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+  float: left;
+}
+
+.awesome {
+  width:100%;
+  color:#313131;
+  -webkit-animation:colorchange 50s infinite alternate;
+}
+
+@keyframes slidein {
+  from {
+    color: red;
+    margin-left: 100%;
+    width: 10%;
+  }
+
+  to {
+    color: purple;
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@-webkit-keyframes colorchange {
+  0% { color: blue; }
+  10% { color: #8e44ad; }
+  20% { color: #1abc9c; }
+  30% { color: #d35400; }
+  40% { color: blue; }
+  50% { color: #34495e; }
+  60% { color: blue; }
+  70% {  color: #2980b9; }
+  80% { color: #f1c40f; }
+  90% { color: #2980b9; }
+  100% { color: pink; }
+}
+
+.site__title {
+  font-size: 8em;
+  color: #f35626;
+  background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: hue 10s infinite linear;
+}
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
 }
