@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Colorfull Buttons</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+      }
+
+      .container {
+        width: 33%;
+        height: 100%;
+        text-align: center;
+        display: inline-block;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container" id="canvas1">
+      <input id="input1" type="text"/>
+      <button id="btn1">Change</button>
+      <script>
+        for (let i = 1; i <= 3; i++) {
+          (function(){
+            let input = document.getElementById("input" + i);
+            let canvas = document.getElementById("canvas" + i);
+            let btn = document.getElementById("btn" + i);
+            btn.addEventListener('click', function() {
+              canvas.style.backgroundColor = input.value;
+            });
+          }());
+        }
+      </script>
+    </div>
+  </body>
+</html>
